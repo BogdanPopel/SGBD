@@ -1,2 +1,2 @@
 # SGBD
-SQL database suitable for companies that sell products.
+SQL database designs suitable for companies that sell products.
